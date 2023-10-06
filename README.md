@@ -1,2 +1,5 @@
 # DSP-Case-Study
-Members:
+Members: 
+Borja, Jenelle Kirsten P. 
+Ocampo, Jane Blanca A.
+Roque, Alexia Jose M. 
